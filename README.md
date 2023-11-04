@@ -1,22 +1,24 @@
-![Header](./banner.png)
+
 <h1 align="center">Hi 👋, I'm Kaisar Hameed</h1>
 <h3 align="center">A passionate Web and App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaisarsofi-kxar&label=Profile%20views&color=0e75b6&style=flat" alt="kaisarsofi-kxar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaisarsofi-kxar" alt="kaisarsofi-kxar" /></a> </p>
 
 
-<Img align="right" alt="Coding" height="250" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
- <br><br>
-- 🌱 I’m currently learning **React** **Native**
+
+<Img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+
+ 
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://kaisarsofi-kxar.github.io/My-Portfolio/](https://kaisarsofi-kxar.github.io/My-Portfolio/)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **kaisersofi.ks2515@gmail.com**
-  <br><br> 
+  
+  <br>
  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/twyx37f4)
@@ -61,6 +63,13 @@ Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&log
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kaisarsofi-kxar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=kaisarsofi-kxar&icon=0&color=0)](https://visitcount.itsvg.in)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaisarsofi-kxar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaisarsofi-kxar&theme=dark&hide_border=false)<br />
