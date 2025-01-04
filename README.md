@@ -10,7 +10,7 @@
 <Img align="right" alt="Coding" height="200" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
  
-- 🌱 I’m currently learning **React Native**
+- 🌱 Software Developer **React Native**
 
 - 👨‍💻 All of my projects are available at [https://kaisarsofi-kxar.github.io/My-Portfolio/](https://kaisarsofi-kxar.github.io/My-Portfolio/)
 
